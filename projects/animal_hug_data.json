@@ -1,0 +1,38 @@
+{
+    "residents": [],
+    "happy_tails": [
+        {
+            "name": "lucy",
+            "species": "dog",
+            "portrait": "  __   _  \n (o o) /  \n  (V)    ",
+            "status": {
+                "is_urgent": true,
+                "reason": "broken leg",
+                "vibe": "Adopted & Happy! 🏠",
+                "health": "Verified ✅"
+            },
+            "technical_info": {
+                "icon": "🐶",
+                "entry_date": "10 Feb 2026 | 01:00",
+                "id": "HUG-08683"
+            }
+        },
+        {
+            "name": "mia",
+            "species": "cat",
+            "portrait": "  ^ ^     \n (o o)    \n  (W)     ",
+            "status": {
+                "is_urgent": true,
+                "reason": "found in the snow",
+                "vibe": "Adopted & Happy! 🏠",
+                "health": "Verified ✅"
+            },
+            "technical_info": {
+                "icon": "🐱",
+                "entry_date": "10 Feb 2026 | 01:03",
+                "id": "HUG-36454"
+            }
+        }
+    ],
+    "donations": 700
+}
